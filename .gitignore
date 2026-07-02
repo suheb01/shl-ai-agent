@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Vector Database
+app/vector_db/
+
+# VS Code Settings (Optional)
+.vscode/
+
+# macOS Files (Optional)
+.DS_Store

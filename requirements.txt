@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+lxml
+pandas
+numpy
+chromadb
+sentence-transformers
+google-generativeai
+python-dotenv
+pydantic
+tqdm
+langchain
+langchain-community
+pytest
