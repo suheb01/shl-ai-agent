@@ -8,8 +8,7 @@ venv/
 __pycache__/
 *.pyc
 
-# Vector Database
-app/vector_db/
+
 
 # VS Code Settings (Optional)
 .vscode/
